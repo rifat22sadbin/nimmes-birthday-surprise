@@ -37,7 +37,9 @@ const HeroSection = () => {
           transition={{ delay: 0.4, duration: 0.6 }}
           className="font-display text-5xl md:text-7xl lg:text-8xl mb-6"
         >
-          <span className="neon-text">Happy Birthday!</span>
+          <span className="neon-text">Happy Birthday</span>
+          <br />
+          <span className="text-gradient">Nimme! 💖</span>
         </motion.h1>
 
         {/* Subtitle */}
@@ -49,7 +51,7 @@ const HeroSection = () => {
         >
           To the most amazing person ✨
           <br />
-          Here's a little something special just for you
+          Here's a little something special just for you, Nimme
         </motion.p>
 
         {/* Floating hearts decoration */}

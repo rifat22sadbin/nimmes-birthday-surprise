@@ -1,11 +1,11 @@
 import { motion } from 'framer-motion';
 
 const storyLines = [
-  { text: "Thanks for being such a good person.", emoji: "🙏" },
-  { text: "You genuinely make days better.", emoji: "☀️" },
-  { text: "Your presence is a gift to everyone around you.", emoji: "🎁" },
+  { text: "Nimme, thanks for being such a good person.", emoji: "🙏" },
+  { text: "You genuinely make everyone's day better.", emoji: "☀️" },
+  { text: "Nimme, your presence is a gift to everyone around you.", emoji: "🎁" },
   { text: "You bring joy wherever you go.", emoji: "🌈" },
-  { text: "Here's a small surprise for your birthday…", emoji: "🎂" },
+  { text: "Here's a small surprise for your birthday, Nimme…", emoji: "🎂" },
 ];
 
 const ScrollStory = () => {
