@@ -78,9 +78,9 @@ const SecretMessage = () => {
             >
               <div className="glass-card p-8 max-w-lg mx-auto neon-glow">
                 <p className="font-display text-xl md:text-2xl leading-relaxed">
-                  "Wishing you all the joy and peace this year.
+                  "Dear Nimme, wishing you all the joy and peace this year.
                   <br />
-                  <span className="text-gradient">Stay happy, stay amazing 😊✨</span>"
+                  <span className="text-gradient">Stay happy, stay amazing — you deserve the world 😊✨</span>"
                 </p>
               </div>
             </motion.div>
